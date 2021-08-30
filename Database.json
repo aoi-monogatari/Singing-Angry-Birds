@@ -1,0 +1,220 @@
+{
+    "TotalPlayTimeSeconds":2499.308,
+    "LocalStatistics":{
+        "fe09c8ef8f0cfada02dcfe3c2081139d":{
+            "TimesStarted":11,
+            "TimesFinished":6,
+            "LastPlayed":"2021-08-03T01:31:02.0801365+09:00",
+            "StatsEntries":{
+                "SongStatistics":[
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":0,
+                        "DateTime":"2021-07-11T12:15:19.3111667+09:00",
+                        "$id":"5"
+                    },
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":36,
+                        "DateTime":"2021-07-28T15:59:04.9244256+09:00",
+                        "$id":"6"
+                    },
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":368,
+                        "DateTime":"2021-07-28T15:59:59.3892756+09:00",
+                        "$id":"7"
+                    }
+                ]
+            }
+        },
+        "afb9b09553e6d5bbd434dc768f30c4c3":{
+            "TimesStarted":1,
+            "TimesFinished":1,
+            "LastPlayed":"2021-07-11T12:20:52.3990012+09:00",
+            "StatsEntries":{
+                "SongStatistics":[
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":0,
+                        "DateTime":"2021-07-11T12:20:52.3990012+09:00",
+                        "$id":"11"
+                    }
+                ]
+            }
+        },
+        "10c3a635bb36ce3e3e0e795cb2e2d375":{
+            "TimesStarted":1,
+            "TimesFinished":1,
+            "LastPlayed":"2021-07-27T09:05:38.3294362+09:00",
+            "StatsEntries":{
+                "SongStatistics":[
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":3574,
+                        "DateTime":"2021-07-27T09:05:38.3294362+09:00",
+                        "$id":"15"
+                    }
+                ]
+            }
+        },
+        "fbcc405dd8485632feb408e65ddc186a":{
+            "TimesStarted":2,
+            "TimesFinished":3,
+            "LastPlayed":"2021-07-30T18:57:38.1578353+09:00",
+            "StatsEntries":{
+                "SongStatistics":[
+                    {
+                        "PlayerName":"Player02",
+                        "Difficulty":"Easy",
+                        "Score":0,
+                        "DateTime":"2021-07-27T10:14:06.7087654+09:00"
+                    },
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":3547,
+                        "DateTime":"2021-07-27T10:14:06.7067656+09:00"
+                    },
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":5722,
+                        "DateTime":"2021-07-30T18:57:38.1578353+09:00",
+                        "$id":"21"
+                    }
+                ]
+            }
+        },
+        "a6691e00fd3278648f1b4206f9abd238":{
+            "TimesStarted":3,
+            "TimesFinished":3,
+            "LastPlayed":"2021-08-03T01:32:34.1564544+09:00",
+            "StatsEntries":{
+                "SongStatistics":[
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":0,
+                        "DateTime":"2021-07-28T15:57:17.2349530+09:00"
+                    },
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":3870,
+                        "DateTime":"2021-08-03T01:32:34.1564544+09:00",
+                        "$id":"26"
+                    }
+                ]
+            }
+        },
+        "76d1854e92add145f2230902d057233b":{
+            "TimesStarted":2,
+            "TimesFinished":2,
+            "LastPlayed":"2021-07-28T16:03:15.1713491+09:00",
+            "StatsEntries":{
+                "SongStatistics":[
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Medium",
+                        "Score":0,
+                        "DateTime":"2021-07-28T15:58:15.4689650+09:00"
+                    }
+                ]
+            }
+        }
+    },
+    "WebStatistics":{
+        
+    },
+    "TopTenList":[
+        {
+            "SongName":"Jingle Bells",
+            "SongArtist":"Christmas Carol",
+            "SongStatistic":{
+                "$ref":"5"
+            }
+        },
+        {
+            "SongName":"Silent Night",
+            "SongArtist":"Christmas Carol",
+            "SongStatistic":{
+                "$ref":"26"
+            }
+        },
+        {
+            "SongName":"Twinkle Twinkle Little Star",
+            "SongArtist":"Unknown",
+            "SongStatistic":{
+                "$ref":"21"
+            },
+            "$id":"35"
+        },
+        {
+            "SongName":"Jingle Bells",
+            "SongArtist":"Christmas Carol",
+            "SongStatistic":{
+                "$ref":"7"
+            }
+        },
+        {
+            "SongName":"Jingle Bells",
+            "SongArtist":"Christmas Carol",
+            "SongStatistic":{
+                "$ref":"6"
+            }
+        },
+        {
+            "SongName":"Jingle Bells",
+            "SongArtist":"Christmas Carol",
+            "SongStatistic":{
+                "PlayerName":"Player02",
+                "Difficulty":"Easy",
+                "Score":0,
+                "DateTime":"2021-07-11T12:15:19.3154146+09:00"
+            }
+        },
+        {
+            "SongName":"Jingle Bells",
+            "SongArtist":"Christmas Carol",
+            "SongStatistic":{
+                "PlayerName":"Player01",
+                "Difficulty":"Medium",
+                "Score":0,
+                "DateTime":"2021-07-11T12:15:20.5322475+09:00"
+            }
+        },
+        {
+            "SongName":"Jingle Bells",
+            "SongArtist":"Christmas Carol",
+            "SongStatistic":{
+                "PlayerName":"Player02",
+                "Difficulty":"Easy",
+                "Score":0,
+                "DateTime":"2021-07-11T12:15:20.5332545+09:00"
+            }
+        },
+        {
+            "SongName":"Kimi no Shiranai Monogatari",
+            "SongArtist":"Supercell",
+            "SongStatistic":{
+                "$ref":"11"
+            }
+        },
+        {
+            "SongName":"Rolling Girl",
+            "SongArtist":"Hatsune Miku",
+            "SongStatistic":{
+                "$ref":"15"
+            }
+        }
+    ],
+    "TopScore":{
+        "$ref":"35"
+    }
+}
